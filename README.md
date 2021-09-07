@@ -30,7 +30,11 @@ To Run The Project
 ```bash
   python manage.py runserver
 ```
+## Contributing.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
 ## 🚀 About Me
 [Alex D'souza](https://github.com/alex-dsouza777)
+
 
   
