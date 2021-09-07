@@ -30,6 +30,14 @@ To Run The Project
 ```bash
   python manage.py runserver
 ```
+## Email Function 
+
+To run Send Automated Email on Reservation in this project, you will need to add the following environment variables to your settings.py file
+
+`Email Id`
+
+`Your Password`
+
 ## Contributing.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
